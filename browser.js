@@ -4,9 +4,11 @@ module.exports = (function(a) {
 
     return {
       protocol: a.protocol,
+      hostname: a.hostname,
       host: a.host,
       path: a.pathname,
-      pathname: a.pathname
+      pathname: a.pathname,
+      port: a.port || '80'
     };
   };
 })(document.createElement('a'));
