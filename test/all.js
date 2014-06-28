@@ -1,1 +1,2 @@
 require('./hostonly');
+require('./path');
