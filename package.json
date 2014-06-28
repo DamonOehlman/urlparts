@@ -4,6 +4,7 @@
   "description": "URL parser that provides a lightweight solution when browserified and uses node's internal url parsing for a node environment",
   "main": "index.js",
   "browser": "browser.js",
+  "stability": "unstable",
   "scripts": {
     "test": "tape test/all.js"
   },
