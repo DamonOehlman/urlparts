@@ -1,0 +1,30 @@
+{
+  "name": "urlparts",
+  "version": "0.0.0",
+  "description": "URL parser that provides a lightweight solution when browserified and uses node's internal url parsing for a node environment",
+  "main": "index.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "tape test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/urlparts.git"
+  },
+  "keywords": [
+    "urlparse",
+    "url-parse",
+    "parser",
+    "url",
+    "uri"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/urlparts/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/urlparts",
+  "devDependencies": {
+    "tape": "^2.13.3"
+  }
+}
