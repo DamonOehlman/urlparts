@@ -7,10 +7,10 @@ module.exports = function(expected) {
     var parts;
 
     t.plan(keys.length);
-    parts = urlparts(t.name);
+    parts = urlparts(t.name, true);
 
     keys.forEach(function(key) {
-      t.equal(parts[key], expected[key]);
+      t.deepEqual(parts[key], expected[key]);
     });
   };
 };
