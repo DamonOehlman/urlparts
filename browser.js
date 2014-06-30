@@ -24,7 +24,7 @@ module.exports = (function(a) {
       protocol: a.protocol,
       hostname: a.hostname,
       host: a.host,
-      path: a.pathname + (a.search ? '?' + a.search : ''),
+      path: a.pathname + (a.search || ''),
       pathname: a.pathname,
       port: a.port || '80'
     };
