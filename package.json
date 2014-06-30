@@ -1,6 +1,6 @@
 {
   "name": "urlparts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "URL parser that provides a lightweight solution when browserified and uses node's internal url parsing for a node environment",
   "main": "index.js",
   "browser": "browser.js",
