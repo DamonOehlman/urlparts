@@ -7,6 +7,9 @@ solution in a browser.
 
 [![NPM](https://nodei.co/npm/urlparts.png)](https://nodei.co/npm/urlparts/)
 
+
+[![browser support](https://ci.testling.com/DamonOehlman/urlparts.png)](https://ci.testling.com/DamonOehlman/urlparts)
+
 [![unstable](https://img.shields.io/badge/stability-unstable-yellowgreen.svg)](https://github.com/dominictarr/stability#unstable) 
 
 ## Example Usage
