@@ -7,10 +7,7 @@ solution in a browser.
 
 [![NPM](https://nodei.co/npm/urlparts.png)](https://nodei.co/npm/urlparts/)
 
-
-[![browser support](https://ci.testling.com/DamonOehlman/urlparts.png)](https://ci.testling.com/DamonOehlman/urlparts)
-
-[![unstable](https://img.shields.io/badge/stability-unstable-yellowgreen.svg)](https://github.com/dominictarr/stability#unstable) 
+[![unstable](https://img.shields.io/badge/stability-unstable-yellowgreen.svg)](https://github.com/dominictarr/stability#unstable) [![Build Status](https://img.shields.io/travis/DamonOehlman/urlparts.svg?branch=master)](https://travis-ci.org/DamonOehlman/urlparts) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/urlparts/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/urlparts) 
 
 ## Example Usage
 
@@ -20,7 +17,7 @@ To be completed.
 
 ### MIT
 
-Copyright (c) 2014 Damon Oehlman <damon.oehlman@gmail.com>
+Copyright (c) 2015 Damon Oehlman <damon.oehlman@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
