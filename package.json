@@ -33,8 +33,5 @@
     "tap-spec": "^2.2.2",
     "tape": "^3.5.0",
     "travis-multirunner": "^1.1.0"
-  },
-  "testling": {
-    "files": "test/all.js"
   }
 }
