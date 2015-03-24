@@ -30,16 +30,6 @@
     "tape": "^2.13.3"
   },
   "testling": {
-    "files": "test/all.js",
-    "browsers": [
-      "ie/9..latest",
-      "chrome/32..latest",
-      "firefox/28..latest",
-      "safari/latest",
-      "opera/11.0..latest",
-      "iphone/6",
-      "ipad/6",
-      "android-browser/latest"
-    ]
+    "files": "test/all.js"
   }
 }
